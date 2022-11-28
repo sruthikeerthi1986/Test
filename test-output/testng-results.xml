@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="8096" started-at="2022-11-28T10:43:40Z" finished-at="2022-11-28T10:43:48Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="8096" started-at="2022-11-28T10:43:40Z" finished-at="2022-11-28T10:43:48Z">
+      <class name="Test_Cases.ContextMenuPageTest">
+        <test-method status="PASS" signature="fnGetSystemParameter()[pri:0, instance:Test_Cases.ContextMenuPageTest@711f39f9]" name="fnGetSystemParameter" is-config="true" duration-ms="23" started-at="2022-11-28T10:43:40Z" finished-at="2022-11-28T10:43:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fnGetSystemParameter -->
+        <test-method status="PASS" signature="fnInitialize()[pri:0, instance:Test_Cases.ContextMenuPageTest@711f39f9]" name="fnInitialize" is-config="true" duration-ms="4614" started-at="2022-11-28T10:43:40Z" finished-at="2022-11-28T10:43:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fnInitialize -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:Test_Cases.ContextMenuPageTest@711f39f9]" name="setup" is-config="true" duration-ms="117" started-at="2022-11-28T10:43:45Z" finished-at="2022-11-28T10:43:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="clickContextMenu()[pri:0, instance:Test_Cases.ContextMenuPageTest@711f39f9]" name="clickContextMenu" duration-ms="2381" started-at="2022-11-28T10:43:45Z" finished-at="2022-11-28T10:43:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickContextMenu -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:Test_Cases.ContextMenuPageTest@711f39f9]" name="teardown" is-config="true" duration-ms="908" started-at="2022-11-28T10:43:47Z" finished-at="2022-11-28T10:43:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Test_Cases.ContextMenuPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
